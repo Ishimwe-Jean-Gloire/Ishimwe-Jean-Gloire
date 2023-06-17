@@ -19,8 +19,9 @@ Hi!, I'm [Ishimwe Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384260),
 - 🌱 I’m currently learning ReactJs and Tailwindcss; 
 - 🤔 I use daily ```.js```,```.html```,```.css```,``` .py```, ```.sql```
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Ishimwe Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384260);
+- 📫 How to reach me: [Ishimwe Gloire](https://ishimwe-jean-gloire.netlify.app/);
 - 📝[Resume](https://drive.google.com/file/d/1ye36Go8mqx92ZJNHOFVntiUPx_6FTRap/view?usp=sharing)
+- 👨🏽‍💻 [My Portfolio Website](https://ishimwe-jean-gloire.netlify.app/);
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
