@@ -7,7 +7,7 @@
 </p>
 <br />
 
-Hi!, I'm [Ishimwe Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384260), a Full Stack Developer 🚀 from Rwanda, currently, I'm a Student in Software Development 🙍🏽‍♂️Thank You for taking the time to view my GitHub Profile :smile:
+Hi!, I'm [Ishimwe Jean Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384260), a Full Stack Developer 🚀 from Rwanda, currently, I'm a Student in Software Development 🙍🏽‍♂️Thank You for taking the time to view my GitHub Profile :smile:
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -19,7 +19,7 @@ Hi!, I'm [Ishimwe Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384260),
 - 🌱 I’m currently learning ReactJs and Tailwindcss; 
 - 🤔 I use daily ```.js```,```.html```,```.css```,``` .py```, ```.sql```
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Ishimwe Gloire](https://ishimwe-jean-gloire.netlify.app/);
+- 📫 How to reach me: [Ishimwe Jean Gloire](https://ishimwe-jean-gloire.netlify.app/);
 - 📝[Resume](https://drive.google.com/file/d/1ye36Go8mqx92ZJNHOFVntiUPx_6FTRap/view?usp=sharing)
 - 👨🏽‍💻 [My Portfolio Website](https://ishimwe-jean-gloire.netlify.app/);
 
