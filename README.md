@@ -15,9 +15,10 @@ Hi!, I'm [Ishimwe Jean Gloire](https://www.linkedin.com/in/ishimwe-gloire-129384
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently Student at GSNDP Cyanika Secondary School;
+- 👨🏽‍💻 I’m currently working on Node Js and React Native;
 - 🌱 I’m currently learning ReactJs and Tailwindcss; 
 - 🤔 I use daily ```.js```,```.html```,```.css```,``` .py```, ```.sql```
+- ⚡ Fun fact: I am a Pro Gamer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Ishimwe Jean Gloire](https://ishimwe-jean-gloire.netlify.app/);
 - 📝[Resume](https://drive.google.com/file/d/1ye36Go8mqx92ZJNHOFVntiUPx_6FTRap/view?usp=sharing)
